@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-# I'm Ana Geórgia, a Computer Science student passionate about new technologies and music.
+I'm Ana Geórgia, a Computer Science student passionate about new technologies and music.
 
 I'm currently working at Stant (@stantmob) as an iOS Developer.
 
