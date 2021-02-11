@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋, I'm Ana Geórgia, a Computer Science student passionate about new technologies and music.
+
+I'm currently working at Stant (@stantmob) as an iOS Developer.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anageorgia&show_icons=true)
 
 <!--
 **anageorgia/anageorgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
