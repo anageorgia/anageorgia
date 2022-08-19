@@ -2,7 +2,7 @@
 
 I'm Ana Geórgia, a Computer Science student passionate about new technologies and music.
 
-I'm currently working at [Stant](https://github.com/stantmob) as an iOS Developer.
+I'm currently working at Usend+Inter as an iOS Developer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anageorgia&show_icons=true&hide=issues)
 
